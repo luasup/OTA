@@ -1,3 +1,28 @@
 {
-  "test": "test"
+  "response": [
+    {
+      "maintainer": "Lua",
+      "oem": "Xiaomi",
+      "device": "sky",
+      "filename": "Lunaris-AOSP-sky-Community-3.11-GMS-2026061710.zip",
+      "download": "https://cdn.luasup.xyz/sky/Lunaris/Lunaris-AOSP-sky-Community-3.11-GMS-2026061710.zip",
+      "timestamp": 1781693117,
+      "md5": "a38becbf521dfe22ca5d17149adf8082",
+      "sha256": "38d87d8027577255a0dce3742f46fef367e9ae0d249c41a2df771ecb5085a83e",
+      "size": 2277281876,
+      "version": "3.11",
+      "buildtype": "user",
+      "forum": "https://telegram.dog/C8_XD",
+      "gapps": "yes",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://telegram.dog/Skyglobalupdates",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
 }
