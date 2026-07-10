@@ -1,28 +1,28 @@
 {
-  "response": [
-    {
-      "maintainer": "Lua",
-      "oem": "Xiaomi",
-      "device": "sky",
-      "filename": "Lunaris-AOSP-sky-Community-3.11-VANILLA-2026061709.zip",
-      "download": "https://go-file.ddbypassed.workers.dev/aHR0cHM6Ly9zdG9yZS1ldS1wYXItMS5nb2ZpbGUuaW8vZG93bmxvYWQvd2ViL2RjMGU3MjA5LWZiNjYtNDYwYi04NjUwLTQ1MWJjNmI1MTNiZi9MdW5hcmlzLUFPU1Atc2t5LUNvbW11bml0eS0zLjExLVZBTklMTEEtMjAyNjA2MTcwOS56aXA=?tk=PLhdWy1iHuBPxwCb15E3BK6xxyrannLU",
-      "timestamp": 1781687334,
-      "md5": "0d6597350e58440104a8bc2717aa5c4f",
-      "sha256": "181a631a3db97d906ef69c172c9923a8cce55bc284cb240dafafa8a3b3f99095",
-      "size": 1547987650,
-      "version": "3.11",
-      "buildtype": "user",
-      "forum": "https://telegram.dog/C8_XD",
-      "gapps": "",
-      "firmware": "",
-      "modem": "",
-      "bootloader": "",
-      "recovery": "",
-      "paypal": "",
-      "telegram": "https://telegram.dog/Skyglobalupdates",
-      "dt": "",
-      "common-dt": "",
-      "kernel": ""
-    }
-  ]
+    "response": [
+        {
+            "maintainer": "Lua",
+            "oem": "Xiaomi",
+            "device": "sky",
+            "filename": "Lunaris-AOSP-sky-Community-3.12-VANILLA-2026071014.zip",
+            "download": "https://cdn.luasup.xyz/sky/Lunaris/Lunaris-AOSP-sky-Community-3.12-VANILLA-2026071014.zip",
+            "timestamp": 1783692295,
+            "md5": "9235ac3e6a56ddd0e67d3e3aa153277a",
+            "sha256": "3b4f65a4a384521f1206165e6000ece833edca4a26284b20705b97bb07cb80a2",
+            "size": 1618714172,
+            "version": "3.12",
+            "buildtype": "user",
+            "forum": "https://telegram.dog/Skyglobalupdates",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://telegram.dog/C8_XD",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
 }
